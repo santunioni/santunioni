@@ -1,6 +1,6 @@
 Olá 👋
 
-Me chamo Vinícius Sant Unioni Ângelo Vargas. 
+Me chamo Vinícius **Sant Unioni** Ângelo Vargas. 
 Sou desenvolvedor de software e mestre em física teórica pela [UFV](https://www.ufv.br/). 
 Apesar de não praticar mais física, gosto de enfatizá-lo, pois foi na 
 universidade que me tornei autodidata. 
