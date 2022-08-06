@@ -34,8 +34,8 @@ Ferramentas que uso frequentemente
 
 ##### Contato 📫
 <div style="width: auto">
-<a href="https://www.linkedin.com/in/santunioni/"><img alt="LinkedIn" width=30 src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
-<a href="https://medium.com/@santunioni"><img alt="Medium" width=30 src="https://w7.pngwing.com/pngs/164/736/png-transparent-computer-icons-social-media-medium-blog-social-network-social-icons-angle-photography-logo.png"></a>
+<a href="https://www.linkedin.com/in/santunioni/"><img alt="LinkedIn" height=50 src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+<a href="https://medium.com/@santunioni"><img alt="Medium" height=50 src="https://w7.pngwing.com/pngs/164/736/png-transparent-computer-icons-social-media-medium-blog-social-network-social-icons-angle-photography-logo.png"></a>
 </div>
 
 <!--
