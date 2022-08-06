@@ -6,7 +6,7 @@ Gosto de enfatizar minha formação, pois foi estudando física que me tornei au
 
 ##### Tecnologias 🔭
 
-Trabalhei com diversas tecnologias durante a minha formação e minha carreira como desenvolvedor. Essas são as que trabalhei por mais tempo
+Ferramentas que uso frequentemente
 
 <div style="justify-content: space-between; width: auto">
 
