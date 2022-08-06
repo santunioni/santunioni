@@ -6,6 +6,8 @@ Gosto de enfatizar minha formação, pois foi estudando física que me tornei au
 
 ##### Tecnologias 🔭
 
+Trabalhei com diversas tecnologias durante a minha formação e minha carreira como desenvolvedor. Essas são as que trabalhei por mais tempo
+
 <div style="justify-content: space-between; width: auto">
 
 <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -13,6 +15,8 @@ Gosto de enfatizar minha formação, pois foi estudando física que me tornei au
 
 <img alt="NodeJS" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" /> 
 <img alt="TypeScript" height="40" src="https://bognarjunior.files.wordpress.com/2018/09/typescript.png" />
+  
+<img alt="Fortran" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/1200px-Fortran_logo.svg.png" />
 
 <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />  
