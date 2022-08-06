@@ -15,6 +15,7 @@ Ferramentas que uso frequentemente
 
 <img alt="NodeJS" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" /> 
 <img alt="TypeScript" height="40" src="https://bognarjunior.files.wordpress.com/2018/09/typescript.png" />
+<img alt="NestJS" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png" />
   
 <img alt="Fortran" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/1200px-Fortran_logo.svg.png" />
 
